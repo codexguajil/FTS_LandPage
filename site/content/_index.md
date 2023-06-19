@@ -1,20 +1,27 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Top-Notch Treatment So You Are Not Left Stumped"
+subtitle: Expert Tree Trimming, Tree Removal & Stump Grinding
+image: /img/tree-sawing.jpeg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Flores Tree Services?
+    text: "Whether you’re looking for tree trimming and removal services, assistance after a storm or treatments to keep your trees healthy and beautiful, Birch Tree Care is here to help. From the initial proposal request to the final clean up, you’ll receive exceptional service and open, honest communication every step of the way. Fully licensed and insured, our experienced tree care specialists truly care about what’s best for you and your trees."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "We provide professional and courteous service to the DFW metroplex and surrounding areas. From tree trimming to tree removal, we can assist you with any tree care needs. We provide expert tree trimming, tree removal, and stump grinding services"
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/tree-pic-1.jpeg
+      text: "Products Section a"
+    - image: /img/stump-removal.jpeg
+      text: "Products Section b"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Why Choose Us?
+    text: When you choose Flores Tree Service, you are choosing professionals. We always provide our customers with top-quality workmanship. Safety is our number one priority, and we follow all ANSI and OSHA guidelines.
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      Customer Review 1
+  - author: Philipp Trommler
+    quote: >-
+      Customer Review 2
 ---
 
