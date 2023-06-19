@@ -6,8 +6,13 @@
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/about-us") }}
 
-{{ partial "blog" . }}
+<div class="pb4 pt4">
+  {{ range .Params.testimonials }}
+  {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+{{/*  {{ partial "blog" . }}  */}}
 
 {{ end }}
