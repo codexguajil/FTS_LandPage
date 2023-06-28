@@ -14,7 +14,7 @@
 .flex-column  { flex-direction: column; }
 .flex-row     { flex-direction: row; }
 .flex-wrap    { flex-wrap: wrap; }
-.flex-ns {
+.flex-nc {
   display: flex;
 }
 
