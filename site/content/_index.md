@@ -17,11 +17,11 @@ values:
     heading: Why Choose Us?
     text: When you choose Flores Tree Service, you are choosing professionals. We always provide our customers with top-quality workmanship. Safety is our number one priority, and we follow all ANSI and OSHA guidelines.
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Elisabeth K
     quote: >-
-      Customer Review 1
-  - author: Philipp Trommler
+      Prompt and courteous service
+  - author: Philipp T
     quote: >-
-      Customer Review 2
+      Completed the project in a timely and efficient manner
 ---
 
