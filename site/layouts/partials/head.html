@@ -1,6 +1,6 @@
 <head>
 
-  <title>Flores Tree Services</title>
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
