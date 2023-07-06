@@ -2,15 +2,17 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/tree-sawing.jpeg" "title" "Gallery") }}
 
-<div class="mw7 center">
+{{ partial "foldergallery" (dict "context" . "gallery_dir" "gallery/") }}
+
+{{/*  <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+          <div >
             {{ .Render "li"}}
           </div>
       {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
-</div>
+  </ul>  */}}
+  {{/*  {{ partial "pagination" . }}  */}}
+{{/*  </div>  */}}
 
 {{end}}

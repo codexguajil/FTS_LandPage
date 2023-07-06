@@ -117,6 +117,9 @@
   padding-right: var(--spacing-extra-extra-extra-large);
 }
 
+.maa {
+  margin: auto;
+}
 .ma0  {  margin: var(--spacing-none); }
 .ma1 {  margin: var(--spacing-extra-small); }
 .ma2  {  margin: var(--spacing-small); }
@@ -343,6 +346,9 @@
     padding-right: var(--spacing-extra-extra-extra-large);
   }
 
+    .maa-ns {
+      margin: auto;
+    }
   .ma0-ns  {  margin: var(--spacing-none); }
   .ma1-ns {  margin: var(--spacing-extra-small); }
   .ma2-ns  {  margin: var(--spacing-small); }

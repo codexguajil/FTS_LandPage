@@ -8,13 +8,15 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 7PM"
   - heading: Service Areas
     text: Tarrant County, Dallas County, Denton County, Collin County
-  - heading: Phone
-    number: 888-888-8888
+  - heading: English
+    number: 817-994-4652
+  - heading: Spanish
+    number: 817-897-2011
 
 ---
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-Reach out to Flores Tree Services today to request a quote for tree trimming, stump grind, or tree removal services.
+<!-- Reach out to Flores Tree Services today to request a quote for tree trimming, stump grind, or tree removal services. -->
 
 <!-- Service Areas: Tarrant County, Dallas County, Denton County, Collin County -->

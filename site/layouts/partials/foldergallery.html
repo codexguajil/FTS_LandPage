@@ -1,0 +1,76 @@
+<style>
+  .foldergallery {
+    padding: 2rem;
+    overflow: auto;
+    margin-left: -1% !important;
+  }
+
+  .foldergallery li {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 19%;
+  }
+
+  @media (min-width: 300px) {
+    
+    .foldergallery li {
+      margin: 3% auto;
+      float: none;
+      width: 80%;  /* 2 images per row on larger mobile screens */
+    }
+  }
+
+  @media (min-width: 708px) {
+    .foldergallery {
+      margin: auto;
+    }
+
+    .foldergallery li {
+      float: left;
+      margin: 0 0 1% 1%;
+      width: 30%;  /* 3 images per row on tablets */
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .foldergallery li {
+      float: left;
+      margin: 0 0 1% 1%;
+      width: 19%;  /* 5 images per row on desktop */
+    }
+  }
+
+  .foldergallery li a {
+    text-align: center;
+    text-decoration: none !important;
+    color: #777;
+  }
+
+  .foldergallery li a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+  }
+
+  .foldergallery li a img {
+    width: 100%;
+    display: block;
+  }
+</style>
+
+{{ $dir := .gallery_dir }}
+<ul class="foldergallery">
+  {{ $resources := resources.Match (print $dir "*") }}
+  {{ range $resources }}
+  {{- $imagetitle := index (split .Name ".") 0 -}}
+  <li>
+    <a href="{{ (.Fit " 1600x1600 q50").Permalink }}" title="{{ $imagetitle }}" class="lightbox-image">
+      <img src="{{ (.Fill " 700x700 q50").Permalink }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
+      {{/*  <span>{{ $imagetitle }}</span>  */}}
+    </a>
+  </li>
+  {{ end }}
+</ul>

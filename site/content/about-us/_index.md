@@ -3,43 +3,35 @@ title: About Flores Tree Services
 type: about-us
 image: /img/tree-pic-1.jpeg
 intro:
-  heading: What we offer
+  heading: About Us
   description: >
-    Whether you’re looking for tree trimming and removal services, assistance after a storm or treatments to keep your trees healthy and beautiful, Flores Tree Services is here to help. From the initial proposal request to the final clean up, you’ll receive exceptional service and open, honest communication every step of the way. Fully licensed and insured, our experienced tree care specialists truly care about what’s best for you and your trees.
+    At Flores Tree Services, we're dedicated to providing top-notch solutions for all your tree care needs. Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. Our team is committed to delivering exceptional service and maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees.
   blurbs:
-    - image: /img/tree-pic-1.jpeg
+    - image: /img/tree-treatment.jpeg
       text: >
         Tree Treatment
-    - image: /img/tree-pic-1.jpeg
+    - image: /img/IMG_6386.jpg
       text: >
         Tree Trimming
-    - image: /img/tree-pic-1.jpeg
+    - image: /img/tree-removal.jpg
       text: >
         Tree Removal
-    - image: /img/tree-pic-1.jpeg
+    - image: /img/storm-damage.jpeg
       text: >
         Storm Damage Assistance
 main:
   heading: Professional, Accountable, and Honest
   description: >
-    Flores Tree Services is a full-service tree company. We follow all ANSI and OSHA guidelines for climbing and felling operations. We utilize proven rigging methods with well-maintained ropes and gear.
+    As a comprehensive tree company, Flores Tree Services adheres strictly to ANSI and OSHA guidelines when performing climbing and felling operations. Our team employs established rigging techniques using meticulously maintained ropes and equipment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/tree-pic-1.jpeg
+    alt: A stump sees its last days
+    image: /img/IMG_3878.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/tree-pic-1.jpeg
+    alt: After
+    image: /img/IMG_3891.jpg
   image3:
-    alt: Coffee beans
-    image: /img/tree-pic-1.jpeg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      Customer Review 1
-  - author: Philipp Trommler
-    quote: >-
-      Customer Review 2
-full_image: /img/tree-pic-1.jpeg
+    alt: We love to be up in the sky
+    image: /img/tree-cut.jpg
 # pricing:
 #   heading: Monthly subscriptions
 #   description: >-

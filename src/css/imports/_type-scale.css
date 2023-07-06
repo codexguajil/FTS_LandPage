@@ -29,6 +29,7 @@
   .f4-m { font-size: 1.25rem;; }
   .f5-m { font-size: var(--spacing-medium); }
   .f6-m { font-size: .875rem; }
+  .f7-m { font-size: .775rem; }
 }
 
 @media (--breakpoint-large) {
