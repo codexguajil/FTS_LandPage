@@ -11,7 +11,7 @@
 
 .flex-none { flex: none; }
 
-.flex-column  { flex-direction: column; }
+.flex-column-1  { flex-direction: column; }
 .flex-row     { flex-direction: row; }
 .flex-wrap    { flex-wrap: wrap; }
 .flex-nc {

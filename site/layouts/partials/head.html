@@ -1,6 +1,7 @@
 <head>
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -28,6 +29,13 @@
 	<meta property="og:title" content="Flores Tree Service">
 	<meta property="og:url" content="/">
 	{{/*  <meta property="og:image" content="/img/og-image.jpg">  */}}
+
+	<meta name="description" content="{{ .Site.Params.description }}">
+	<!-- Bootstrap CSS -->
+
+	<!-- Bootstrap JS, Popper.js, and jQuery -->
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

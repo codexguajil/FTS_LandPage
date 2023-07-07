@@ -17,12 +17,14 @@ products:
 values:
     heading: Why Choose Us?
     text: We deliver exceptional workmanship, ensuring top-quality results for our valued customers. Our team is committed to maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. Safety is our utmost concern, and we strictly adhere to all ANSI and OSHA guidelines to guarantee a secure working environment.
-# testimonials:
-#   - author: Elisabeth K
-#     quote: >-
-#       Prompt and courteous service
-#   - author: Philipp T
-#     quote: >-
-#       Completed the project in a timely and efficient manner
+reviews:
+    heading: "Testimonials"
+    list:
+      - author: "Erica P., Haltom City"
+        content: "The quotes are amazing. Very dependable company. The clean up everything after the job is finished."
+      - author: "Rosa J."
+        content: "Felix was very professional. He explained the entire process. Was very precise, thorough, safe and cleaned so well after trimming all the trees, not alimb was found in my yard. I highly recommend Flores Tree Service!"
+      - author: "Bernie H., Fort Worth"
+        content: "They ground two huge stumps for my father in law and did a fantastic job! My FIL was so happy he gave them more than what they agreed to beforehand. I would highly recommend them!"
 ---
 

@@ -10,11 +10,13 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/about-us") }}
 
-<div class="pb4 pt4">
+{{ partial "reviewsCarousel" (dict "reviews" .Params.reviews) }}
+
+{{/*  <div class="pb4 pt4">
   {{ range .Params.testimonials }}
   {{ partial "blockquote" . }}
   {{ end }}
-</div>
+</div>  */}}
 {{/*  {{ partial "blog" . }}  */}}
 
 {{ end }}

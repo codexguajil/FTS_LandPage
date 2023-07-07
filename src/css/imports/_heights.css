@@ -1,5 +1,6 @@
 .h1 { height: var(--spacing-medium); }
 .h2 { height: 2rem; }
+.h2new { height: 300px }
 .h3 { height: 4rem; }
 .h4 { height: 8rem; }
 .h5 { height: 16rem; }

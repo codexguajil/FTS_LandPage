@@ -9,6 +9,10 @@ html {
   background-color: var(--black);
 }
 
+.ff-2 {
+  font-family: var(--font-family-2);
+}
+
 
 body {
   font-family: var(--font-family);
