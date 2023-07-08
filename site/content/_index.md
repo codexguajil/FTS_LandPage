@@ -4,7 +4,7 @@ subtitle: Superior Treatment So You Aren't Left Stumped
 image: /img/tree-sawing.jpeg
 banner: Book Now 
 blurb:
-    heading: Why Flores Tree Services?
+    heading: Why Flores Tree Service?
     text: "Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees."
 intro:
     heading: "What we offer"

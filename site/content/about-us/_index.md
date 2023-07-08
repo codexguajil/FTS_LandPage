@@ -1,11 +1,11 @@
 ---
-title: About Flores Tree Services
+title: About Flores Tree Service
 type: about-us
 image: /img/tree-pic-1.jpeg
 intro:
   heading: About Us
   description: >
-    At Flores Tree Services, we're dedicated to providing top-notch solutions for all your tree care needs. Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. Our team is committed to delivering exceptional service and maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees.
+    At Flores Tree Service, we're dedicated to providing top-notch solutions for all your tree care needs. Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. Our team is committed to delivering exceptional service and maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees.
   blurbs:
     - image: /img/tree-treatment.jpeg
       text: >
@@ -22,7 +22,7 @@ intro:
 main:
   heading: Professional, Accountable, and Honest
   description: >
-    As a comprehensive tree company, Flores Tree Services adheres strictly to ANSI and OSHA guidelines when performing climbing and felling operations. Our team employs established rigging techniques using meticulously maintained ropes and equipment.
+    As a comprehensive tree company, Flores Tree Service adheres strictly to ANSI and OSHA guidelines when performing climbing and felling operations. Our team employs established rigging techniques using meticulously maintained ropes and equipment.
   image1:
     alt: A stump sees its last days
     image: /img/IMG_3878.jpg
