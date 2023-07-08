@@ -6,6 +6,12 @@ title = "Homepage"
 [params]
   description = "Dallas/Fort Worth Expert Tree Service - Trust the leaders in tree care for all your needs. From tree trimming to removal and storm damage assistance, our professionals handle it all. Experience exceptional workmanship and unmatched expertise. Contact us today for comprehensive tree services you can rely on."
 
+[imageProcessing]
+  enableInlineCSS = true
+  resampleFilter = "lanczos"
+  anchor = "center"
+  quality = 75
+  disableHugoGeneratedCSS = true
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
