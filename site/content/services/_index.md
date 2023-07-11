@@ -4,7 +4,7 @@ image: /img/stump-removal.jpeg
 values:
   - heading: "Tree Treatment"
     text: >
-      Our knowledgeable team specializes in providing targeted treatments tailored to the specific needs of trees commonly found in the area, such as live oak, pecan, and cedar elm. Whether your trees require pest control, disease management, or nutrient supplementation, we've got you covered. Count on our expertise to ensure the long-term health and resilience of your beloved trees.
+      Our knowledgeable team specializes in providing targeted treatments tailored to the specific needs of trees commonly found in the area, such as live oak, pecan, and cedar elm. Whether your trees require pest control or disease management we've got you covered. Count on our expertise to ensure the long-term health and resilience of your beloved trees.
     imageUrl: "/img/IMG_4602.jpg"
   - heading: "Tree Trimming"
     text: >

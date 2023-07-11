@@ -5,7 +5,7 @@ image: /img/tree-pic-1.jpeg
 intro:
   heading: About Us
   description: >
-    At Flores Tree Service, we're dedicated to providing top-notch solutions for all your tree care needs. Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. Our team is committed to delivering exceptional service and maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees.
+    At Flores Tree Service, we're dedicated to providing top-notch solutions for all your tree care needs in the Dallas-Fort Worth metroplex. Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. Our team is committed to delivering exceptional service and maintaining transparent communication throughout the entire process, from the moment you request a proposal to the final cleanup. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees.
   blurbs:
     - image: /img/tree-treatment.jpeg
       text: >
