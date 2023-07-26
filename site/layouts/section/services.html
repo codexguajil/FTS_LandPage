@@ -2,6 +2,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+<div class="tc pv3 bt bb  flex-nc justify-evenly">
+  <a href="/contact" class="btn btn-s raise">Contact Us Now!</a>
+  <button class="btn btn-s raise">
+    <a href="tel: 8179944652">Call: 817-994-4652</a>
+  </button>
+</div>
+
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.values }}
@@ -12,6 +19,13 @@
     {{ end }}
   {{ end }}
 
+</div>
+
+<div class="tc pv3 bt bb mt3 flex-nc justify-evenly">
+  <a href="/contact" class="btn btn-s raise">Contact Us Now!</a>
+  <button class="btn btn-s raise">
+    <a href="tel: 8179944652">Call: 817-994-4652</a>
+  </button>
 </div>
 
 {{ end }}
