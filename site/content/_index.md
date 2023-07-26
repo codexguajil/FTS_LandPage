@@ -5,10 +5,10 @@ image: /img/tree-sawing.jpeg
 banner: Book Now 
 blurb:
     heading: Why Flores Tree Service?
-    text: "Whether you require tree trimming, removal services, storm damage assistance, or treatments to enhance the health and beauty of your trees, we've got you covered. With our extensive experience and full licensing and insurance, you can trust our skilled tree care specialists to prioritize your well-being and the optimal condition of your trees."
+    text: "With a comprehensive range of services, we cater to all your tree care needs. Whether it's tree trimming, removal, storm damage assistance, or treatments to promote healthier trees, we have the expertise to handle it all. Count on our experienced and fully licensed team to prioritize your well-being and ensure your trees are in their best condition."
 intro:
     heading: "What we offer"
-    text: "We provide professional and courteous service to the DFW metroplex and surrounding areas. From tree trimming to tree removal, we can assist you with any tree care needs. We provide expert tree trimming, tree removal, and stump grinding services"
+    text: "Discover professional and courteous tree care across the DFW metroplex and surrounding areas. Our expert services include tree trimming, removal, and stump grinding, providing you with a one-stop solution for all your tree care requirements. Trust our knowledgeable team to deliver top-notch services tailored to meet your specific needs."
 products:
     - image: img/tree-pic-1.jpeg
       # text: "Tree Cabling and Bracing"
