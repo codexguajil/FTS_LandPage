@@ -11,7 +11,7 @@
 		{{ $reviews := .reviews }} <!-- Assuming the reviews are passed as a list of maps -->
 		{{ range $i, $review := $reviews.list }}
 		<div class="carousel-item {{ if eq $i 0 }}active{{ end }}">
-			<div class="review-content tc fn h2new w-70 m1 top-2 pt3">
+			<div class="review-content tc fn h2new h3new w-70 m1 top-2 pt3">
 				<blockquote class="m1 pb3"><span class="f2 grey-3 ff-2 db">"</span>
 					{{ $review.content }}<span>"</span></blockquote>
 				<p class="m1"><strong>- {{ $review.author }}</strong></p>

@@ -7,7 +7,7 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM"
   - heading: Service Areas
-    text: Tarrant County, Dallas County, Denton County, Collin County
+    text: Tarrant County, Dallas County, Denton County, Collin County, Johnson County, and more
   - heading: English
     number: 817-994-4652
   - heading: Spanish
